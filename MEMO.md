@@ -1,0 +1,1 @@
+# JavaScript基本機能の参照用
